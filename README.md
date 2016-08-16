@@ -1,2 +1,2 @@
-# eccube-productorder
-Product ordering plugin for EC-CUBE3.
+# EC-CUBE3.x用商品順並び替えプラグイン
+商品の並び順のデフォルトが価格順の15件なのを新着順の30件に変更するプラグインです。

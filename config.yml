@@ -1,0 +1,4 @@
+name: 商品オーダー
+version: 1.0.0
+code: ProductOrder
+event: ProductOrderEvent

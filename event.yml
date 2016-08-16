@@ -1,0 +1,3 @@
+# product page event
+front.product.index.initialize:
+  - [onFormInitializeProduct, NORMAL]
